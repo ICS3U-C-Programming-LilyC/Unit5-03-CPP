@@ -4,7 +4,7 @@
 // Created on: Dec/1/2023
 // This program gets a level from
 // the user (1,2,3,4) and will display
-// the middle percentage mark for that
+// the middle percentage mark for the
 // level, using a switch statement.
 #include <iostream>
 
